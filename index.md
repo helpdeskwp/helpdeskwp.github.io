@@ -16,5 +16,6 @@ Your support system is ready now. Your customers can open that page and submit t
 
 The tickets will be shown in WordPress -> Help Desk WP and you can filter and answer them.
 
-Watch the video for more information.
-https://www.youtube.com/watch?v=MqKqwe0fgqA
+Watch the following video for more information.
+<br>
+[Set up Help Desk WP](https://www.youtube.com/watch?v=MqKqwe0fgqA "Set up Help Desk WP").
